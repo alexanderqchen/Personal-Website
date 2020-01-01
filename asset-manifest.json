@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.57e1d1a7.chunk.css",
+    "main.js": "/website/static/js/main.1b3d2991.chunk.js",
+    "main.js.map": "/website/static/js/main.1b3d2991.chunk.js.map",
+    "runtime-main.js": "/website/static/js/runtime-main.70a96838.js",
+    "runtime-main.js.map": "/website/static/js/runtime-main.70a96838.js.map",
+    "static/js/2.12387b40.chunk.js": "/website/static/js/2.12387b40.chunk.js",
+    "static/js/2.12387b40.chunk.js.map": "/website/static/js/2.12387b40.chunk.js.map",
+    "index.html": "/website/index.html",
+    "precache-manifest.f6730c667e2ce0cc35f1e428a1b4212f.js": "/website/precache-manifest.f6730c667e2ce0cc35f1e428a1b4212f.js",
+    "service-worker.js": "/website/service-worker.js",
+    "static/css/main.57e1d1a7.chunk.css.map": "/website/static/css/main.57e1d1a7.chunk.css.map",
+    "static/js/2.12387b40.chunk.js.LICENSE": "/website/static/js/2.12387b40.chunk.js.LICENSE",
+    "static/media/architecture.svg": "/website/static/media/architecture.59ec1545.svg",
+    "static/media/aws.png": "/website/static/media/aws.9091a731.png",
+    "static/media/construction.svg": "/website/static/media/construction.d409fca2.svg",
+    "static/media/design.svg": "/website/static/media/design.832972a8.svg",
+    "static/media/django.png": "/website/static/media/django.7a4f4735.png",
+    "static/media/firebase.png": "/website/static/media/firebase.bc6a3575.png",
+    "static/media/flask.png": "/website/static/media/flask.a9412783.png",
+    "static/media/gcp.png": "/website/static/media/gcp.b8659392.png",
+    "static/media/github.svg": "/website/static/media/github.76d344f0.svg",
+    "static/media/headshot.jpeg": "/website/static/media/headshot.9d03e1d3.jpeg",
+    "static/media/heroku.svg": "/website/static/media/heroku.b38ff61a.svg",
+    "static/media/javascript.svg": "/website/static/media/javascript.61ed8b05.svg",
+    "static/media/logo.svg": "/website/static/media/logo.36049d35.svg",
+    "static/media/mongodb.png": "/website/static/media/mongodb.d08100a3.png",
+    "static/media/mysql.svg": "/website/static/media/mysql.f80a91ba.svg",
+    "static/media/node.png": "/website/static/media/node.4d2aa0c2.png",
+    "static/media/postgresql.png": "/website/static/media/postgresql.cd22fbae.png",
+    "static/media/python.png": "/website/static/media/python.8885c46b.png",
+    "static/media/react.png": "/website/static/media/react.cbd83250.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70a96838.js",
+    "static/js/2.12387b40.chunk.js",
+    "static/css/main.57e1d1a7.chunk.css",
+    "static/js/main.1b3d2991.chunk.js"
+  ]
+}
